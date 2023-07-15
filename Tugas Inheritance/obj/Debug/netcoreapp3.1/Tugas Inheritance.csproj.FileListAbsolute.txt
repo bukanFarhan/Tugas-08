@@ -1,0 +1,14 @@
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\bin\Debug\netcoreapp3.1\Tugas Inheritance.exe
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\bin\Debug\netcoreapp3.1\Tugas Inheritance.deps.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\bin\Debug\netcoreapp3.1\Tugas Inheritance.runtimeconfig.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\bin\Debug\netcoreapp3.1\Tugas Inheritance.runtimeconfig.dev.json
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\bin\Debug\netcoreapp3.1\Tugas Inheritance.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\bin\Debug\netcoreapp3.1\Tugas Inheritance.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.csproj.AssemblyReference.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.AssemblyInfoInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.AssemblyInfo.cs
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.csproj.CoreCompileInputs.cache
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.dll
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.pdb
+C:\19.11.2842\SEMESTER 8\PEMROGRAMAN\P8, Inheritance\Tugas Inheritance\Tugas Inheritance\obj\Debug\netcoreapp3.1\Tugas Inheritance.genruntimeconfig.cache
